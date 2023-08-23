@@ -1,3 +1,3 @@
 # diagrama-classe-uml-iphone
 
-desafio de DIO, diagrama de classe do iphone 
+Diagramação da representação em UML do Iphone referente ao desafio da DIO
